@@ -1,7 +1,5 @@
 ### Hi there 👋
-I’m currently learning data science and machine learning.
-I'm a student of department of industrial engineering at Bogazici University. This is my second university. I have been studying data science for 
-three years. I want to become a freelancer data scientist in software world. I want to share my process of development.
+
 
 <!--
 **omerdersu/omerdersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
